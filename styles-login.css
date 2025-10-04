@@ -61,7 +61,7 @@ input::placeholder {
     border-radius: 0.4rem;
 
     color: #FFFFFF;
-    font-size: 0.8rem;
+    font-size: 8.5rem;
     font-weight: 500;
     text-transform: uppercase;
     cursor: pointer;
@@ -75,7 +75,7 @@ input::placeholder {
 }
 
 #box-login p {
-    margin-top: 1.5rem;
+    margin-top: 1.50000rem;
     font-size: 0.9rem;
     color:#808080;
 }
