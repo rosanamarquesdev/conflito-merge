@@ -15,7 +15,7 @@ Depois, entre na pasta do projeto:
 cd [NOME_DO_PROJETO_CLONADO]
 
 2. Crie sua nova branch
-3. 
+
 Crie uma "ramificação" nova para trabalhar, isolando suas alterações da main (principal). O nome deve seguir o padrão tipo/descrição (ex: feat/cria-erro-proposital).
 
 git checkout -b feat/cria-erro-proposital
